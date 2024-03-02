@@ -16,12 +16,10 @@ const Home = () => {
         </h1>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam magnam
-          omnis natus accusantium quos. Reprehenderit incidunt expedita
-          molestiae impedit at sequi dolorem iste sit culpa, optio voluptates
-          fugiat vero consequatur?Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur voluptates ullam error cumque quos accusamus autem nesciunt esse ab reprehenderit, ipsam repudiandae perferendis non. Itaque magnam quasi voluptate perspiciatis qui.
+          omnrem ipsum dolor sit amet consectetur adipisicing elit. Consequatur voluptates ullam error cumque quos accusamus autem nesciunt esse ab reprehenderit, ipsam repudiandae perferendis non. Itaque magnam quasi voluptate perspiciatis qui.
         </p>
 
-        <button className=" bg-brightColor text-white px-4 py-2 rounded-md hover:bg-hoverColor transition duration-300 ease-in-out">
+        <button className=" bg-brightColor text-white px-4 py-2 rounded-md hover:bg-hoverColor transition duration-300 ease-in-out ">
        <Link to="/services">See Services</Link>
       </button>
       </div>

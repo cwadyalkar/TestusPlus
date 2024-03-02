@@ -8,7 +8,7 @@ import { FaArrowRight } from "react-icons/fa";
 const Doctors = () => {
   const data = [
     {
-      img: "/src/assets/img/doc1.jpg",
+      img: "/src/assets/img/img1.jpg",
       name: "Dr. Ghanorila Suryavanshi",
       specialties: "Orthopedic Surgeon",
     },

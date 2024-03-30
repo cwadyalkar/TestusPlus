@@ -1,23 +1,23 @@
 export const faqs = [
     {
-      question: "What is your medical care?",
+      question: "Goverment Panel Health Test",
       content:
-        "One Medical was founded on a better model of care one designed around patients needs that provides a higher level of quality and service affordably. We do this through innovative design, excellent customer service, and the efficient use of technology.",
+        "BSF ▪️ CRPF ▪️ SSB ▪️ Ministry of Human Resource Department ▪️ Income Tax Department ▪️ NSG ▪️ Agniveer ▪️ Maharashtra Police ▪️ Indian railway Department ▪️ AIIMS Hospital ▪️ Other Govt. panel test",
     },
     {
-      question: "What happens if I need to go a hospital?",
+      question: "Full Body Check Up",
       content:
-        "One Medical was founded on a better model of care one designed around patients needs that provides a higher level of quality and service affordably. We do this through innovative design, excellent customer service, and the efficient use of technology.",
+        "Basic Package ▪️ Child package ▪️ Premium package ▪️ Other package",
     },
     {
-      question: "What happens if I need to go a hospital?",
+      question: "Packages for Athletes/ Bodybuilders",
       content:
-        "One Medical was founded on a better model of care one designed around patients needs that provides a higher level of quality and service affordably. We do this through innovative design, excellent customer service, and the efficient use of technology.",
+        "Ready to go ▪️ Current condition ▪️ 100% fit checkup ▪️ Other checkup",
     },
     {
-      question: "Can I visit your medical office?",
+      question: "Popular Blood Test",
       content:
-        "One Medical was founded on a better model of care one designed around patients needs that provides a higher level of quality and service affordably. We do this through innovative design, excellent customer service, and the efficient use of technology.",
+        "CBC ▪️ Thyroid ▪️ LFT ▪️ KFT ▪️  WIDAL Test  ▪️  Lipid Profile  ▪️  Other Test",
     },
     {
       question: "Does you provide urgent care?",

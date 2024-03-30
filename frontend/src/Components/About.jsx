@@ -10,10 +10,23 @@ const About = () => {
           </div>
           {/* about content */}
           <div className="w-full lg:w-1/2 xl:w-[670px] order-1 lg:order-2">
-            <h2 className="heading">Proud To be One Of The Nations Best</h2>
-            <p className="text__para">Lorem ipsum dolor sit amet consectetur Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui, enim. adipisicing elit. Odit nostrum beatae quas laborum, ex numquam. Consectetur illo modi magnam nobis.</p>
-            <p className="text__para mt-[30px]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae rem eligendi iusto sit! Velit, possimus? Accusantium, iste. Ea ipsa eaque corrupti modi accusamus! Velit inventore et nam.</p>
-         <Link to="/"><button className="btn">Learn More</button></Link>
+            <h2 className="heading">Who Are We ? </h2>
+            <p className="text__para">
+              Launched in 2023, Our technology platform connect patient,
+              laboratories, caregiver and phlebotomist to serving their needs.
+              Patient use our platform to search blood testing laboratories,
+              book test at home, hospital sample pickup also make payment on
+              laboratories and book care-taker.
+            </p>
+            <p className="text__para mt-[30px]">
+            On the other-hand we provide
+              marketing tool to the laboratories to grow their revenue. We also
+              provide our phlebotomist & caregiver partners with transparent and
+              flexible earning opportunities.
+            </p>
+            <Link to="/">
+              <button className="btn">Learn More</button>
+            </Link>
           </div>
         </div>
       </div>

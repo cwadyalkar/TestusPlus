@@ -1,8 +1,13 @@
+import ServicesList from "../Components/ServicesList";
 
 const Services = () => {
   return (
-    <div>Services</div>
-  )
-}
+  <section>
+        <div className="container">
+          <ServicesList />
+        </div>
+      </section>
+  );
+};
 
-export default Services
+export default Services;

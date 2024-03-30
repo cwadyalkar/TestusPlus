@@ -93,7 +93,7 @@ const Home = () => {
 
               <div className="mt-[30px]">
                 <h2 className="text-[26px] leading-9 text-headingColor font-[700] text-center">
-                  Book an Service
+                Appoint Care Taker
                 </h2>
                 <p className="text-[16px] leading-7 text-textColor font-[400] mt-4 text-center">
                   Lorem icing elit. Incidunt porro nobis animi sint, quasi ipsam
@@ -114,7 +114,7 @@ const Home = () => {
 
               <div className="mt-[30px]">
                 <h2 className="text-[26px] leading-9 text-headingColor font-[700] text-center">
-                  Book an Service
+                Hospital Pickup
                 </h2>
                 <p className="text-[16px] leading-7 text-textColor font-[400] mt-4 text-center">
                   Lorem icing elit. Incidunt porro nobis animi sint, quasi ipsam
@@ -135,7 +135,7 @@ const Home = () => {
 
               <div className="mt-[30px]">
                 <h2 className="text-[26px] leading-9 text-headingColor font-[700] text-center">
-                  Book an Service
+                Home Patient Care
                 </h2>
                 <p className="text-[16px] leading-7 text-textColor font-[400] mt-4 text-center">
                   Lorem icing elit. Incidunt porro nobis animi sint, quasi ipsam
@@ -181,10 +181,10 @@ const Home = () => {
               </h2>
               <ul className="pl-4">
                 <li className="text__para">
-                  1. Schedule the Appointment Directly
+                  1. We insure the safety of patients condition and provide you service through experienced person
                 </li>
-                <li className="text__para">2. Blood test from your Home </li>
-                <li className="text__para">3. Vedic Therapies at Low Price</li>
+                <li className="text__para">2. You get what you pay for. Additionally, guaranteed replacement, verification document and more!</li>
+                <li className="text__para">3. Our executive is always their for you to hear you out. </li>
               </ul>
               <Link to="/">
                 <button className="btn">Learn More</button>

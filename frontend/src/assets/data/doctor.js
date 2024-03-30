@@ -26,8 +26,8 @@ export const doctors = [
   },
   {
     id: "03",
-    name: "Dr. Farid Uddin",
-    specialty: "Dermatologist",
+    name: "Rely Lab Pvt. Ltd",
+    specialty: "Nagpur",
     avgRating: 4.8,
     totalRating: 272,
     photo: doctorImg03,

@@ -13,15 +13,15 @@ const socialLinks = [
     icon: <AiFillYoutube className="group-hover:text-white w-4 h-5" />,
   },
   {
-    path: "",
+    path: "https://github.com/cwadyalkar/TestusPlus",
     icon: <AiFillGithub className="group-hover:text-white w-4 h-5" />,
   },
   {
-    path: "",
+    path: "https://www.instagram.com/testus.co?igsh=ejByanNyb3EwNXk5",
     icon: <AiOutlineInstagram className="group-hover:text-white w-4 h-5" />,
   },
   {
-    path: "",
+    path: "https://www.linkedin.com/company/testus-plus-healthcare-services-pvt-ltd/",
     icon: <RiLinkedinBoxFill className="group-hover:text-white w-4 h-5" />,
   },
 ];

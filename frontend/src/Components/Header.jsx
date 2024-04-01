@@ -25,7 +25,7 @@ const navlinks = [
 
 const Header = () => {
   const headerRef = useRef(null);
-  const menuRef = useRef(null);
+  const menuRef = useRef(null); 
 
   const handleStickyHeader = () => {
     window.addEventListener("scroll", () => {

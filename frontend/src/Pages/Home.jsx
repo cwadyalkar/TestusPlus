@@ -12,7 +12,7 @@ import ServicesList from "../Components/ServicesList";
 import LaboratoryList from "../Components/LaboratoryList";
 import faqImg from "../assets/images/faq-img.png";
 import FaqList from "../Components/FaqList";
-import testusimg from "../assets/images/testusimg.png"
+import testusimg from "../assets/images/testusimg.png";
 const Home = () => {
   return (
     <>
@@ -26,9 +26,12 @@ const Home = () => {
                   We Help Patient live a healthy, longer life
                 </h1>
                 <p className="text__para">
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex
-                  quaerat nobis quam, quidem mollitia quia iure minus dolor unde
-                  ipsa.
+                  Testus aim to Provide World class primary health care easily
+                  accessible at patient comfortable environment at affordable
+                  value. We assure patients safety under our trained attendants,
+                  nurses, caretakers, etc. Also, we take care of your personal
+                  information secrecy. Our own trained caregiver are deployed to
+                  your the patients for their homily parental care.
                 </p>
                 <button className="btn">Explore More</button>
               </div>
@@ -66,7 +69,11 @@ const Home = () => {
                 <img className="w-full " src={herobg01} alt="" />
               </div>
               <div className="mt-[30px]">
-                <img src={testusimg} alt="" className="w-full mb-[30px] rounded-lg" />
+                <img
+                  src={testusimg}
+                  alt=""
+                  className="w-full mb-[30px] rounded-lg"
+                />
                 <img src={herobg03} alt="" className="w-full" />
               </div>
             </div>

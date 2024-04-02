@@ -1,7 +1,12 @@
 
+
 const VedicTherapy = () => {
   return (
-    <div>VedicTherapy</div>
+    <section>
+      <div className="container">
+        
+      </div>
+    </section>
   )
 }
 

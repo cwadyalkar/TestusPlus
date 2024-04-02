@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import herobg01 from "../assets/images/hero-img01.png";
-import herobg02 from "../assets/images/hero-img02.png";
+// import herobg02 from "../assets/images/microscope.png";
 import herobg03 from "../assets/images/hero-img03.png";
 import icon01 from "../assets/images/icon01.png";
 import icon02 from "../assets/images/icon02.png";
@@ -12,6 +12,7 @@ import ServicesList from "../Components/ServicesList";
 import LaboratoryList from "../Components/LaboratoryList";
 import faqImg from "../assets/images/faq-img.png";
 import FaqList from "../Components/FaqList";
+import testusimg from "../assets/images/testusimg.png"
 const Home = () => {
   return (
     <>
@@ -65,7 +66,7 @@ const Home = () => {
                 <img className="w-full " src={herobg01} alt="" />
               </div>
               <div className="mt-[30px]">
-                <img src={herobg02} alt="" className="w-full mb-[30px]" />
+                <img src={testusimg} alt="" className="w-full mb-[30px] rounded-lg" />
                 <img src={herobg03} alt="" className="w-full" />
               </div>
             </div>

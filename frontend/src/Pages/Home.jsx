@@ -89,8 +89,9 @@ const Home = () => {
               Providing the Best Medical Services
             </h2>
             <p className="text__para text-center">
-              World Class Care For Everyone. Our Health System Offers
-              Unmatched,Expert health Care
+              Receive compassionate and professional home patient care services,
+              tailored to meet your unique needs and ensure comfort and dignity
+              in familiar surroundings.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-[30px] mt-[30px] lg:mt-[55px]">
@@ -169,8 +170,8 @@ const Home = () => {
           <div className="xl:w-[470px] mx-auto  ">
             <h2 className="heading text-center">Our Services</h2>
             <p className="text__para text-center">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ea
-              delectus cupiditate voluptas, placeat possimus.
+            Receive compassionate and professional home patient care services, tailored to meet your
+unique needs and ensure comfort and dignity in familiar surroundings.
             </p>
           </div>
 

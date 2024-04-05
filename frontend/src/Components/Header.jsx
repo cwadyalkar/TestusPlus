@@ -15,11 +15,11 @@ const navlinks = [
   },
   {
     path: "/addlabs",
-    display: "Add Laboratory",
+    display: "Laboratory",
   },
   {
     path: "/contact",
-    display: "Contact Us",
+    display: "Contact",
   },
 ];
 
@@ -63,7 +63,7 @@ const Header = () => {
                     to={link.path}
                     className={(navClass) =>
                       navClass.isActive
-                        ? "text-primaryColor text-[16px] leading-7 font-[600]"
+                        ? "text-white text-[16px] btn leading-7 font-[600]"
                         : "text-textColor text-[16px] leading-7 font-[500] hover:text-primaryColor"
                     }
                   >

@@ -1,7 +1,11 @@
 
 const HomePatientCare = () => {
   return (
-    <div>HomePatientCare</div>
+    <section>
+      <div className="container">
+        
+      </div>
+    </section>
   )
 }
 

@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import herobg01 from "../assets/images/hero-img01.png";
 // import herobg02 from "../assets/images/microscope.png";
 import herobg03 from "../assets/images/hero-img03.png";
+import herobg02 from "../assets/images/hero-img02.png";
 import icon01 from "../assets/images/icon01.png";
 import icon02 from "../assets/images/icon02.png";
 import icon03 from "../assets/images/icon03.png";
@@ -12,7 +13,7 @@ import ServicesList from "../Components/ServicesList";
 import LaboratoryList from "../Components/LaboratoryList";
 import faqImg from "../assets/images/faq-img.png";
 import FaqList from "../Components/FaqList";
-import testusimg from "../assets/images/testusimg.png";
+// import testusimg from "../assets/images/testusimg.png";
 const Home = () => {
   return (
     <>
@@ -22,10 +23,10 @@ const Home = () => {
           <div className="flex flex-col lg:flex-row gap-[90px] items-center justify-between ">
             <div>
               <div className="lg:w-[570px]">
-                <h1 className="text-[36px] leading-[46px] text-headingColor font-[800] md:text-[60px] md:leading-[70px]">
+                <h1 className="text-[36px] leading-[46px] text-white font-[800] md:text-[60px] md:leading-[70px]">
                   We Help Patient live a healthy, longer life
                 </h1>
-                <p className="text__para">
+                <p className="text__para text-white">
                   Testus aim to Provide World class primary health care easily
                   accessible at patient comfortable environment at affordable
                   value. We assure patients safety under our trained attendants,
@@ -70,7 +71,7 @@ const Home = () => {
               </div>
               <div className="mt-[30px]">
                 <img
-                  src={testusimg}
+                  src={herobg02}
                   alt=""
                   className="w-full mb-[30px] rounded-lg"
                 />

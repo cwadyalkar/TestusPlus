@@ -50,3 +50,99 @@ body {
 
   }
 }
+/* BloodTestsPage.css */
+.headerbt {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.headerbt  {
+  max-width: 100%;
+ 
+  background: linear-gradient(rgba(8,0,58,0.7),rgba(8,0,58,0.7)),
+    url(../assets/blood-4039751_640.webp);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.blood-tests-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.blood-test {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  width: 300px;
+  display: flex;
+  flex-direction: column; /* Added */
+  justify-content: space-between; /* Added */
+}
+
+.blood-test button {
+  background-color: rgb(34 211 238);
+  color: #000000;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.blood-test button:hover {
+  background-color: #0056b3;
+}
+
+.cart {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  width: 300px;
+}
+
+.cart h2 {
+  margin-bottom: 10px;
+}
+
+.cart-item {
+  margin-bottom: 10px;
+}
+
+.cart-item label {
+  display: block;
+}
+
+.cart-item input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.cart-item button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.cart-item button:hover {
+  background-color: #0056b3;
+}

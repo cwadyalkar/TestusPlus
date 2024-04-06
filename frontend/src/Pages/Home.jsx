@@ -105,8 +105,7 @@ const Home = () => {
                   Appoint Care Taker
                 </h2>
                 <p className="text-[16px] leading-7 text-textColor font-[400] mt-4 text-center">
-                  Lorem icing elit. Incidunt porro nobis animi sint, quasi ipsam
-                  suscipit perferendis a sunt autem.
+                Appoint a compassionate and experienced caretaker today to ensure personalized, reliable care for your loved one&#39;s well-being and comfort.
                 </p>
                 <Link
                   to="/services"
@@ -126,8 +125,7 @@ const Home = () => {
                   Hospital Pickup
                 </h2>
                 <p className="text-[16px] leading-7 text-textColor font-[400] mt-4 text-center">
-                  Lorem icing elit. Incidunt porro nobis animi sint, quasi ipsam
-                  suscipit perferendis a sunt autem.
+                Schedule hassle-free hospital pickup services, providing efficient and reliable transportation for patients to and from medical appointments
                 </p>
                 <Link
                   to="/services"
@@ -147,8 +145,7 @@ const Home = () => {
                   Home Patient Care
                 </h2>
                 <p className="text-[16px] leading-7 text-textColor font-[400] mt-4 text-center">
-                  Lorem icing elit. Incidunt porro nobis animi sint, quasi ipsam
-                  suscipit perferendis a sunt autem.
+                Receive compassionate and professional home patient care services, tailored to meet your unique needs and ensure comfort and dignity in familiar surroundings.
                 </p>
                 <Link
                   to="/services"
